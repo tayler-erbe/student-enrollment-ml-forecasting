@@ -1,0 +1,48 @@
+FALL
+Undergraduate
+ARIMA (2,0,1): 2,4
+ARIMA (1,0,1): 0,1,3,5,6,7,8
+
+Graduate
+ARIMA (2,0,1): 1,2,3,4,5,6,11,12
+ARIMA (1,0,1): 0,8,10
+ARIMA (1,0,2): 7,9
+Exponential Smoothing Recommended for: 2,7
+
+Professional
+ARIMA (2,0,1): 0,2
+ARIMA (2,0,2): 4
+ARIMA (1,0,1): 1,3
+Exponential Smoothing Recommended for: 5 (Else Get details for DRPH)
+
+SPRING
+Undergraduate
+ARIMA (2,0,1): 0,1,4,6,7
+ARIMA (1,0,1): 2,3
+ARIMA (1,0,2): 5,8
+Exponential Smoothing Recommended for: 2
+
+Graduate
+ARIMA (2,0,1): 0,1,4,7,8,10
+ARIMA (1,0,2): 5
+ARIMA (1,0,1): 2,6,11
+Exponential Smoothing Recommended for: 3,9
+
+Professional:
+Exponential Smoothing Recommended for: 0,1,2
+
+SUMMER:
+Undergraduate
+ARIMA (2,0,1): 0,1,3
+ARIMA (1,0,1): 2,4,5
+Exponential Smoothing Recommended for: 0,2
+
+Graduate
+ARIMA (2,0,1): 0,1,3
+ARIMA (2,0,2): 8,9
+ARIMA (1,0,1): 2,4,7
+Exponential Smoothing Recommended for: 2,5,6
+
+Professional
+Only Colleges are Dentistry and Medicine
+Exponential Smoothing needed
